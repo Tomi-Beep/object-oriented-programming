@@ -1,4 +1,5 @@
-# First Colloquium Exercises
+# First Colloquium Problems
+> The problems are originally written in Macedonian
 
 ## Проблем 1: Управување со Песни и CD-а
 
