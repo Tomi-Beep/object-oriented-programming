@@ -259,4 +259,11 @@ int soIstaZarabotuvachka(Vozac** vozaci, int broj, Vozac* vozac);
 - **За класата `ElektronskiKoncert`**:
   ```plaintext
   Elektronski Koncert: [назив], DJ: [име на DJ], Duration: [времетраење]h, Price: [цена] ден.
-  
+
+# Проблем 5: File reading
+Write a program that reads from a file named "text.txt" and prints to the standard output:
+- the relative frequency of all lowercase letters
+- the relative frequency of all uppercase letters
+
+The relative frequency of a given character(s) is calculated as the ratio of the total occurrences of that/those character(s) to the total number of characters in the text (ignoring spaces and special characters).
+Do not modify the function writeToFile().
