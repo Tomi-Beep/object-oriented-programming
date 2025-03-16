@@ -1,5 +1,5 @@
 # Second Colloquium and Exam Problems
-> The problems were written in Macedonian language
+> The problems were written in Macedonian
 
 ## Проблем 1: Управување со Книги за Издавачката Куќа FINKI-Education
 
